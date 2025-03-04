@@ -1,2 +1,2 @@
-SW Version: INT_E2ICore_1.0.0_RX7_250225
+SW Version: INT_E2ICore_2.0.0_RX7_250225
 URL: E2BOX RS2_NoorN_2.0.0_RX9_00050125 EDGEBOX-ESP-100 https://raw.githubusercontent.com/MohndElhossin/data/refs/heads/main/binary.bin 1089808
