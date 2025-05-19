@@ -1,2 +1,0 @@
-SW Version: INT-E2ICore-2.0.0-RX8-110325
-URL: E2BOX RS2_NoorN_2.0.0_RX9_00050125 EDGEBOX-ESP-100 https://raw.githubusercontent.com/MohndElhossin/data/refs/heads/main/binary.bin 1089808
