@@ -7,7 +7,7 @@
 
     void loop() {
       // print labels
-      Serial.print("NO FORMAT");  // prints a label
+      Serial.print("NO FORMAT") // prints a label
       Serial.print("\t");         // prints a tab
 
       Serial.print("DEC");
