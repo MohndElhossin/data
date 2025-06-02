@@ -11,7 +11,7 @@
       Serial.print("\t");         // prints a tab
 
       Serial.print("DEC");
-      Serial.print("\t")
+      Serial.print("\t");
 
       Serial.print("HEX");
       Serial.print("\t");
