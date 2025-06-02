@@ -10,7 +10,7 @@
       Serial.print("NO FORMAT"); // prints a label
       Serial.print("\t");         // prints a tab
 
-      Serial.print("DEC")
+      Serial.print("DEC");
       Serial.print("\t");
 
       Serial.print("HEX");
