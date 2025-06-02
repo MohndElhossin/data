@@ -1,4 +1,4 @@
-name: Build Arduino Sketch with ZIP Library
+name: E2BOX Build 
 
 on:
   push:
