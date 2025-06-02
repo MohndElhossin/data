@@ -24,12 +24,11 @@ jobs:
           arduino-cli config init
           arduino-cli core update-index
           arduino-cli core install esp32:esp32
-          arduino-cli core list
-          arduino-cli board listall esp32:esp32
+          
 
 
       - name: Compile sketch
         run: |
           arduino-cli compile \
-            --fqbn esp32:esp32:esp32dev \
+            --fqbn esp32:esp32:Edgebox-ESP-100 \
             .
