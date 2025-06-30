@@ -1,1 +1,0 @@
-[![E2BOX MAIN branch Build status](https://github.com/MohndElhossin/data/actions/workflows/main.yml/badge.svg?branch=main&nocache=1&event=push)](https://github.com/MohndElhossin/data/actions/workflows/main.yml)
